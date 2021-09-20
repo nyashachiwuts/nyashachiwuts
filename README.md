@@ -1,7 +1,7 @@
 - 👋 Hi, my name Nyasha
-- 👀 I’m interested in software development of the UX variant
-- 🌱 I’m currently learning Ruby on Rails
-- 💞️ I’m looking to collaborate and contribute on a contract/employment basis
+- 👀 Interested in software development of the UX variant
+- 🌱 Currently learning Ruby on Rails
+- 💞️ Looking to collaborate and contribute on a contract/employment basis
 - 📫 Drop me an email: chiwutsi@gmail.com
 
 <!---
