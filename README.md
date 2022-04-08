@@ -1,3 +1,9 @@
+[![Nyasha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyashachiwuts&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Nyasha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nyashachiwuts&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Nyasha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyashachiwuts&theme=radical&count_private=true&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, my name Nyasha
 - 👀 Interested in software development of the UX variant
 - 🌱 Currently learning Ruby on Rails
