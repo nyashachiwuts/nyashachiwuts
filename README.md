@@ -4,11 +4,13 @@
 
 <!-- [![Nyasha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyashachiwuts&theme=radical&count_private=true&hide=php)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<!--
 - 👋 Hi, my name Nyasha
 - 👀 Interested in software development + UX
 - 🌱 Currently learning Ruby on Rails
 - 💞️ Looking to collaborate and contribute on a contract/employment basis
 - 📫 Drop me an email: chiwutsi@gmail.com
+--->
 
 <!---
 nyashachiwuts/nyashachiwuts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
